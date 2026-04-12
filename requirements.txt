@@ -1,0 +1,15 @@
+groq
+langchain
+langchain-core
+langchain-community
+langchain-groq
+python-dotenv
+requests
+fastapi
+uvicorn
+pydantic
+transformers
+langchain-huggingface
+langchain_mistralai
+sentence-transformers
+streamlit
