@@ -1,0 +1,111 @@
+﻿CHAPTER FOURTEEN
+
+The Future of Artificial Intelligence
+David A. Bray
+
+“AI can match humans into different ad-hoc teams…to fit a specific 
+public service goal or problem set. If an emergent event or crisis 
+occurs, AI can help identify who is available to assist with what 
+activities—and even help coordinate swarming activities of both 
+humans and machines to assist with the response to the event. AI 
+can learn which humans work better on specific tasks with other 
+humans…”
+
+
+Imagine being able to visit a disability claims office in a digital environment. 
+Imagine a patent examiner equipped with digital assistants that could do the 
+bulk of administrative work behind processing patents. Artificial intelligence 
+(AI) may make both of these scenarios a reality. This chapter addresses the 
+question of how advances in and adoption of AI will transform public service 
+over the next twenty years. AI has dual meanings: 
+•	 artificial intelligence 
+•	 augmented intelligence, specifically how human capabilities can be 
+
+improved by pairing them with machines to collectively work smarter 
+
+Most of the benefits to government will come from a people-centered 
+approach of pairing humans with machine learning to amplify human strengths 
+via augmented intelligence. Such a people-centered approach means that the 
+success of public service in the future depends on identifying beneficial ways 
+to augment the extant human abilities of networked, cross-sector teams—
+who want to improve the delivery of public service—with digital assistants 
+and learning machines to amplify the team’s strengths, mitigate any possible 
+blind spots, and increase the capabilities of the team as a whole. 
+
+This chapter breaks down the possibilities into the near-term future 
+(2020-2025), the medium-term future (2025-2030), and the long-term 
+future (2030-2040), and then focuses on specific initiatives that are likely to 
+be launched to employ AI to transform the public sector. 
+
+The Near-Term Future (2020-2025)
+
+The near-term future includes using AI in specialized applications to 
+support the information and logistics functions traditionally performed by 
+government to provide government services. It is important to note that 
+when deciding where to use AI, public servants determine to what degree 
+the machines providing this assistance operate autonomously vs. semi-auton-
+omously.1 For the near future, most machines will probably provide support 
+that still requires a human to act or make a decision. 
+
+For all the near-term future possibilities discussed below, government 
+should implement “public review boards” that look at the diversity, consis-
+tency, and appropriateness of the data used. Without diverse or consistent 
+data, the AI trained by the data may make decisions that erode public trust. 
+Without appropriate use of data, public trust may also erode. For represen-
+tative government, using “public review boards” in a form akin to a random 
+jury selection process may be one way to ensure improved oversight. Such 
+
+
+
+
+activities would also involve outreach efforts by public service organizations, 
+to increase digital literacy and the understanding of AI and what it can do. 
+Following are some examples of how AI will be deployed in the near future. 
+
+Increased Use of AI-Supported Assistance for Individuals Seeking 
+Government Information. Several cities already have “311” telephone lines 
+and mobile apps to assist individuals with non-emergency city services as well 
+as to provide information on programs, events, and activities in the city. Such 
+public-facing services will employ AI to help individuals with their questions. 
+Humans would still need to be in the loop for new questions where the AI 
+does not know the answer, or instances where the AI is uncertain about the 
+question being asked. Such AI assistance will also help government employ-
+ees with questions about onboarding, starting a new role, help with an exist-
+ing role, retiring, and other internal service queries. 
+
+Increased Use of AI-Supported Assistance for Talent Management and 
+Skills Matching. AI will help community members find new jobs and tailor 
+training to hone and improve their skills for upward mobility in their jobs. 
+Unemployment and career assistance services will provide an AI assistant via 
+phone or at a physical career support center. The AI assistant will serve as a 
+personal scout for new jobs based on questions answered by the individual 
+about their skills, abilities, and desired work. The AI assistant will also help 
+with tailored training opportunities accessible through in-person community 
+colleges or online. Such AI assistance for talent management and skills match-
+ing will also be employed internally to government itself, to help the existing 
+government workforce find new work opportunities and tailor individual train-
+ing to further develop skills and abilities. 
+
+Increased Use of AI-Supported Review of Public Applications and 
+Filings. Current government functions often entail detailed forms and pro-
+cesses to either prove or approve services to the public. Such functions 
+include licenses, land and jurisdictional approvals, individual claims, payment 
+processing, and travel-related documents. The current linear process of such 
+applications is outdated, usually requiring a human to identify the right form, 
+fill it out, and submit it—only to find that another form was needed or more 
+information was required. Instead, AI assistants will provide more tailored 
+support to individuals, to better understand what they are applying for and 
+pre-review a public application or filing prior to human approval. 
+
+Increased Use of AI-Supported Legal, Financial and Ethics Reviews. 
+Legal, financial, and ethics reviews often entail a rules-based approach of 
+reviewing information submitted to ensure it comports with specified require-
+ments. Such reviews fit well with how AI can assist humans. An AI assistant 
+will do the initial review, let an individual know if more information is required, 
+and provide a preliminary result for final review by a human. 
+
+Increased Use of AI-Supported Detection of Fake Images, Videos, and 
+Audio Files. It currently is possible to “clone” someone’s face to an image 
+or video of someone else’s body. Voices also can be “cloned” to produce 
+audio recordings that sound like someone saying something they did not say. 
+

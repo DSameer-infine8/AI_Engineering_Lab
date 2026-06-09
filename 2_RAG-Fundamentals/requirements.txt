@@ -1,0 +1,42 @@
+langchain
+langchain-core
+langchain-community 
+
+#LLM Providers 
+langchain-openai 
+langchain-mistralai 
+openai 
+mistralai 
+
+# Vector Database 
+chromadb 
+
+# Environment Variables 
+python-dotenv 
+
+# Embedding models 
+sentence-transformers 
+
+# Document Loaders dependencies 
+pypdf
+unstructured 
+beautifulsoup4
+lxml
+
+# Text Processing
+tiktoken
+
+# API 
+fastapi
+unicorn 
+
+# Data Handling 
+pandas 
+numpy 
+
+# UI 
+streamlit 
+
+# Utilities 
+tqdm 
+requests 
